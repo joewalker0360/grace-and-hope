@@ -70,8 +70,8 @@
 ### 2. Installation
 
 ```bash
-git clone https://github.com/<your-username>/faith-support.git
-cd faith-support
+git clone https://github.com/joewalker0360/grace-and-hope.git
+cd grace-and-hope
 npm install
 ```
 
@@ -115,3 +115,4 @@ If using Supabase, remember to add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_S
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
