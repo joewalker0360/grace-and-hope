@@ -5,7 +5,10 @@
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-Ready-green?style=flat-square&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-Live-success?style=flat-square&logo=vercel)
 ![License](https://img.shields.io/badge/License-MIT-emerald?style=flat-square)
+
+**🌐 Live Demo:** [https://grace-and-hope.vercel.app](https://grace-and-hope.vercel.app)
 
 ---
 
