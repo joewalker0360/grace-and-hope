@@ -1,0 +1,41 @@
+[
+  {
+    "id": "95542252-afe1-4d34-8f9d-404076690a11",
+    "name": "Anonymous",
+    "tag": "Need Encouragement",
+    "text": "Help me",
+    "likes": 0,
+    "prayers": 0,
+    "created_at": "2026-10-07T16:48:30.000Z"
+  },
+  {
+    "id": "seed-1",
+    "name": "Grace",
+    "tag": "Need Encouragement",
+    "time": "Today",
+    "created_at": "2026-10-07T10:00:00.000Z",
+    "text": "I have been feeling overwhelmed with university exams and family responsibilities. I could really use some encouragement and peace right now.",
+    "likes": 8,
+    "prayers": 5
+  },
+  {
+    "id": "seed-2",
+    "name": "Anonymous",
+    "tag": "Prayer Request",
+    "time": "Today",
+    "created_at": "2026-10-07T08:30:00.000Z",
+    "text": "Please pray for me as I make an important career decision this week. I want to trust God instead of being paralyzed by anxiety and fear of failure.",
+    "likes": 12,
+    "prayers": 9
+  },
+  {
+    "id": "seed-3",
+    "name": "Daniel",
+    "tag": "Just Sharing",
+    "time": "Yesterday",
+    "created_at": "2026-10-06T15:00:00.000Z",
+    "text": "Going through a difficult season of loss, but I am trying to remember that I am not walking through the valley alone. Grateful for this space.",
+    "likes": 14,
+    "prayers": 11
+  }
+]
