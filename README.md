@@ -20,8 +20,18 @@
 
 ## 🌟 Key Features
 
+* **🔐 Mandatory Google Sign-In Gate:**
+  * Clean, peaceful entrance ensuring authenticated community access and zero spam.
+  * Automatically registers each member for daily Scripture morning delivery.
+  * Preserves full user privacy: toggle to post anonymously or with your Google name.
+
+* **📬 Automated Daily Scripture Emails:**
+  * Every morning at 6:00 AM, a beautifully styled HTML email with the day's verse is dispatched via **Resend**.
+  * Scheduled seamlessly through **Vercel Cron Jobs** (`vercel.json`).
+  * Features an uplifting quote card, Scripture reference, and 1-click visit link.
+
 * **🙏 Community Encouragement Wall:**
-  * Post thoughts, prayers, or burdens completely anonymously.
+  * Post thoughts, prayers, or burdens with full anonymity options.
   * Tag notes by intent: *Need Encouragement*, *Prayer Request*, *Giving Thanks*, or *Just Sharing*.
   * Built-in character counter (max 600 chars) for concise, thoughtful notes.
 
